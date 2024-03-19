@@ -6,18 +6,8 @@ issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+
 version: 3.1.1
 
 environment:
-<<<<<<< HEAD
-<<<<<<< HEAD
-  sdk: ">=3.1.0 <4.0.0"
-  flutter: ">=3.13.0"
-=======
-  sdk: ">=3.0.0 <4.0.0"
-  flutter: ">=3.10.0"
->>>>>>> refs/remotes/origin/main
-=======
-  sdk: ^3.1.0
-  flutter: ">=3.13.0"
->>>>>>> refs/remotes/origin/main
+  sdk: ">=3.3.1 <4.0.0"
+  flutter: ">=3.19.3"
 
 flutter:
   plugin:
@@ -36,12 +26,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-<<<<<<< HEAD
   pigeon: 
     git: https://github.com/kumsumit/pigeon.git
-=======
-  pigeon: ^13.0.0
->>>>>>> refs/remotes/origin/main
   test: ^1.16.3
 
 topics:
